@@ -1,5 +1,5 @@
 # Micro Job Board - Frontend
-
+Hi
 A modern job board platform built with React.js, Redux Toolkit, and Material UI.
 
 ## 🚀 READY TO DEPLOY!
